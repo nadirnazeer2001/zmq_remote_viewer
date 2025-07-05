@@ -3,7 +3,7 @@
 
 A Qt-based application for viewing video streams over ZeroMQ.
 
-![Screenshot](screenshot.png) *(optional)*
+![Screenshot](ZSTreamer.png) *(optional)*
 
 ## Features
 - Connects to ZMQ video streams
@@ -37,7 +37,7 @@ MIT
 
 A Qt-based application for viewing video streams over ZeroMQ.
 
-![Screenshot](screenshot.png) *(optional)*
+![Screenshot](ZSTreamer.png) *(optional)*
 
 ## Features
 - Connects to ZMQ video streams
